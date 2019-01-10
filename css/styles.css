@@ -1,7 +1,20 @@
 .column{
+  background: yellow;
   width: 300px;
   float: left;
   padding: 20px;
+}
+
+#first{
+  background: red;
+}
+
+#second{
+  background: blue;
+}
+
+#third{
+  background: yellow;
 }
 
 h1{
